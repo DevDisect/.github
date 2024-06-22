@@ -28,6 +28,16 @@ We regularly conduct free webinars and mentorship for all the students.
 We encourage students to be present in each of our sessions to network with peers and with like-minded folks.
 Networking is the most important part for students for their valuation of their personal brand.
 
+### Team
+#### Founder 
+- Harshit Dugar
+#### Community Manager
+- Dev Sanghvi
+
+#### Core Team
+-
+-
+
 ### Code of Conduct
 Respect and Inclusivity
 
